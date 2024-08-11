@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "Trirong";
+  src: url("/fonts/Trirong/Trirong-ExtraBold.woff2");
+  src: local("Trirong"), url("/fonts/Trirong/Trirong-ExtraBold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/RobotoCondensed/RobotoCondensed-Regular.eot");
+  src: local("Roboto Condensed"), local("RobotoCondensed-Regular"), url("/fonts/RobotoCondensed/RobotoCondensed-Regular.woff") format("woff"), url("/fonts/RobotoCondensed/RobotoCondensed-Regular.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/RobotoCondensed/RobotoCondensed-Bold.eot");
+  src: local("Roboto Condensed Bold"), local("RobotoCondensed-Bold"), url("/fonts/RobotoCondensed/RobotoCondensed-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/RobotoCondensed/RobotoCondensed-Bold.woff") format("woff"), url("/fonts/RobotoCondensed/RobotoCondensed-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter/Inter-ExtraLightBETA.woff2");
+  src: local("Inter"), url("/fonts/Inter/Inter-ExtraLightBETA.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter/Inter-LightBETA.woff2");
+  src: local("Inter"), url("/fonts/Inter/Inter-LightBETA.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter/Inter-Regular.woff2");
+  src: local("Inter"), local("Inter"), url("/fonts/Inter/Inter-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter/Inter-Medium.woff2");
+  src: local("Inter"), local("Inter"), url("/fonts/Inter/Inter-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter/Inter-SemiBold.woff2");
+  src: local("Inter"), local("Inter"), url("/fonts/Inter/Inter-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Martel";
+  src: url("/fonts/Martel/Martel-Bold.eot");
+  src: local("Martel Bold"), local("Martel-Bold"), url("/fonts/Martel/Martel-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/Martel/Martel-Bold.woff2") format("woff2"), url("/fonts/Martel/Martel-Bold.woff") format("woff"), url("/fonts/Martel/Martel-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Martel";
+  src: url("/fonts/Martel/Martel-DemiBold.eot");
+  src: local("Martel DemiBold"), local("Martel-DemiBold"), url("/fonts/Martel/Martel-DemiBold.eot?#iefix") format("embedded-opentype"), url("/fonts/Martel/Martel-DemiBold.woff2") format("woff2"), url("/fonts/Martel/Martel-DemiBold.woff") format("woff"), url("/fonts/Martel/Martel-DemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Martel";
+  src: url("/fonts/Martel/Martel-Regular.eot");
+  src: local("Martel"), local("Martel-Regular"), url("/fonts/Martel/Martel-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/Martel/Martel-Regular.woff2") format("woff2"), url("/fonts/Martel/Martel-Regular.woff") format("woff"), url("/fonts/Martel/Martel-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=fonts.css.map */

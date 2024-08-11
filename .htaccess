@@ -1,0 +1,18 @@
+AddDefaultCharset utf-8
+
+# Redirect if there is no index file in the directory
+Options -Indexes
+ErrorDocument 403 /
+
+RewriteEngine on
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !/admin77
+RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
+
+# Deny access to json file
+<FilesMatch ".(json)$">
+ Order Allow,Deny
+ Deny from all
+</FilesMatch>

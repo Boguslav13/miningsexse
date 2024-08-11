@@ -1,0 +1,34 @@
+<svg width="558" height="364" viewBox="0 0 558 364" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ddii_100_21)">
+<path d="M343.822 343.435C286.18 333.006 197.483 339.245 172.434 322.26C147.71 305.112 146.187 293.206 106.956 257.769C67.7245 222.331 46.6925 193.016 21.5783 152.333C-3.86149 111.811 22.0882 61.1089 71.9153 36.2461C121.524 11.1325 194.578 12.4342 255.886 12.0456C317.195 11.657 366.433 9.74058 419.818 13.6653C473.421 17.8407 531.497 27.6948 542.667 57.7176C559.701 103.5 512.499 112.443 507.5 152.333C502.826 192.059 513.936 193.207 524.921 234.828C536.45 276.538 532.684 330.194 497.5 343.435C462.316 356.677 401.139 354.028 343.822 343.435Z" fill="#251135"/>
+<path d="M343.972 342.582L343.967 342.582C320.347 338.308 291.538 336.822 264.108 335.407C257.936 335.088 251.834 334.773 245.877 334.431C229.625 333.498 214.447 332.362 201.782 330.407C189.072 328.445 179.109 325.686 173.111 321.621C160.878 313.135 154.39 305.958 146.027 296.423C145.672 296.017 145.312 295.607 144.949 295.193C136.761 285.848 126.59 274.238 107.76 257.229C68.6313 221.885 47.6564 192.657 22.567 152.013L22.5633 152.007C10.0158 132.021 10.1088 109.47 19.57 88.785C29.0309 68.1001 47.8369 49.3428 72.5716 37.0006L72.577 36.9979C97.1998 24.5331 127.69 18.6011 159.744 15.7454C187.846 13.2417 217.071 13.1076 244.524 12.9816C248.389 12.9639 252.218 12.9463 256.004 12.9223C269.612 12.8361 282.619 12.6748 295.204 12.5188C339.368 11.9712 378.331 11.4881 419.818 14.5377C446.595 16.6235 474.391 20.1222 496.855 26.8155C519.352 33.5182 536.186 43.3245 541.605 57.8867C545.815 69.2021 546.042 78.1969 543.975 85.9461C541.904 93.7085 537.516 100.273 532.39 106.718C530.709 108.831 528.946 110.933 527.163 113.059C518.104 123.858 508.509 135.296 506.396 152.162L506.395 152.167C504.049 172.11 505.659 182.437 509.269 193.019C510.411 196.368 511.74 199.712 513.197 203.379C516.342 211.295 520.084 220.713 523.835 234.925L523.837 234.933C529.578 255.701 531.505 279.432 527.63 299.594C523.747 319.8 514.086 336.186 496.945 342.637C479.554 349.182 455.648 351.827 428.869 351.496C402.108 351.166 372.567 347.867 343.972 342.582Z" stroke="white" stroke-width="2"/>
+</g>
+<defs>
+<filter id="filter0_ddii_100_21" x="0.667969" y="0.236088" width="556.688" height="363.164" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="5.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0432532 0 0 0 0 0.220703 0 0 0 0 0.677004 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_100_21"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.419797 0 0 0 0 0.123518 0 0 0 0 0.668671 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_100_21" result="effect2_dropShadow_100_21"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_100_21" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.141176 0 0 0 0 0.489882 0 0 0 0 0.811765 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect3_innerShadow_100_21"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.368627 0 0 0 0 0.0745098 0 0 0 0 0.615686 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect3_innerShadow_100_21" result="effect4_innerShadow_100_21"/>
+</filter>
+</defs>
+</svg>
