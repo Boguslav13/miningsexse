@@ -5,6 +5,8 @@ Options -Indexes
 ErrorDocument 403 /
 
 RewriteEngine on
+RewriteRule ^\.git($|/) - [F,L]
+
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
